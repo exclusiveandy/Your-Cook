@@ -1,8 +1,10 @@
 # Your Cook: Your Guide In Cooking
 
-Your Cook: Your Guide In Cooking is a mobile application that will guide you real time. This mobile application is created in my 3rd year college in [**_Polytechnic University of the Philippines_**](https://www.pup.edu.ph). This will help the user on how to cook and guide them in real time, there will be a timer that the user can get along with the app. 
+Your Cook: Your Guide In Cooking is a mobile application that will guide you in real-time. This mobile application is created in my 3rd-year college at [**_Polytechnic University of the Philippines_**](https://www.pup.edu.ph). This will help the user on how to cook and guide them in real-time, there will be a timer that the user can get along with the app. 
 
 It introduces the main ingredient and alternative ingredient possible for the dishes, the application also includes the dishes nutrition fact for the user to know.
+
+
 
 ### Cooking Categories
 
